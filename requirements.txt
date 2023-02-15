@@ -10,4 +10,4 @@ numpy==1.17.3
 pickleshare==0.7.5
 python-dateutil==2.7.5
 requests==2.22.0
-Werkzeug==0.16.0
+Werkzeug==2.2.3
