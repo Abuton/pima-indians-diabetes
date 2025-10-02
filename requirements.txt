@@ -9,5 +9,5 @@ MarkupSafe==1.1.1
 numpy==1.17.3
 pickleshare==0.7.5
 python-dateutil==2.7.5
-requests==2.22.0
+requests==2.32.4
 Werkzeug==0.16.0
